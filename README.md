@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @captjay27
-- 👀 I’m practicing data science
+- 👋 Hi, I’m Markeith Johnson
+- 👀 I’m a new Army Major and Operations Research Systems Analyst practicing Data Science
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on big data projects
-- 📫 How to reach me: cptjohcptjohnsonusarmy03@gmail.com
-- 😄 Pronouns: him
+- 📫 How to reach me: majormarkjohns@gmail.com
 - ⚡ Fun fact: I like to eat good food and will spend my budget on drinks the same!
 
 <!---
